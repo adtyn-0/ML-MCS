@@ -53,7 +53,3 @@ Follow these steps to set up the project locally:
 ## How to Use
 - Enter system metrics (CPU usage, memory, network activity) in the web form.
 - Click "Classify" to get predictions from the trained models.
-
-## License
-This project is licensed under the MIT License.
-
